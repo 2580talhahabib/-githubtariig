@@ -6,3 +6,7 @@ vibrant
 
 darkmode 
 video calls
+
+payment request
+send money
+payment method
